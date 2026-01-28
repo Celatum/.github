@@ -1,3 +1,0 @@
-# Celatum
-
-Hello World!
