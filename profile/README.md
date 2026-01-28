@@ -1,5 +1,3 @@
-# Celatum AB
-
 Hello World!
 
 <!--
